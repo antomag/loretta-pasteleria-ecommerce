@@ -1,0 +1,106 @@
+[{
+        "id": 1,
+        "imagen": "img/tresmouses.jpeg",
+        "nombre": "tres mouses",
+        "precio": 1,
+        "categoria": "postres"
+    },
+    {
+        "id": 2,
+        "imagen": "img/marquise.jpeg",
+        "nombre": "marquise",
+        "precio": 1,
+        "categoria": "postres"
+    },
+    {
+        "id": 3,
+        "imagen": "img/rogel.jpeg",
+        "nombre": "rogel",
+        "precio": 1,
+        "categoria": "postres"
+    },
+    {
+        "id": 4,
+        "imagen": "img/tiramisu.jpeg",
+        "nombre": "tiramisu",
+        "precio": 1,
+        "categoria": "postres"
+    },
+    {
+        "id": 5,
+        "imagen": "img/bretona.jpeg",
+        "nombre": "bretona",
+        "precio": 1,
+        "categoria": "postres"
+    },
+    {
+        "id": 6,
+        "imagen": "img/lemonpie.jpeg",
+        "nombre": "lemon pie",
+        "precio": 1,
+        "categoria": "tartas"
+    },
+    {
+        "id": 7,
+        "imagen": "img/cheescakefrutosrojos.jpeg",
+        "nombre": "NY cheescake con frutos rojos",
+        "precio": 1,
+        "categoria": "postres"
+    },
+    {
+        "id": 8,
+        "imagen": "img/cheescakemaracuya.jpeg",
+        "nombre": "NY cheescake de maracuya",
+        "precio": 1,
+        "categoria": "postres"
+    },
+    {
+        "id": 9,
+        "imagen": "img/keylime.jpeg",
+        "nombre": "key lime pie",
+        "precio": 1,
+        "categoria": "tartas"
+    },
+    {
+        "id": 10,
+        "imagen": "img/tartafrutas1.jpeg",
+        "nombre": "tarta de frutas",
+        "precio": 1,
+        "categoria": "tartas"
+    },
+    {
+        "id": 11,
+        "imagen": "img/macarons.jpeg",
+        "nombre": "macarons",
+        "precio": 1,
+        "categoria": "alfajores"
+    },
+    {
+        "id": 12,
+        "imagen": "img/redvelvet1.jpeg",
+        "nombre": "red velvet",
+        "precio": 1,
+        "categoria": "postres"
+    },
+    {
+        "id": 13,
+        "imagen": "img/tresleches.jpeg",
+        "nombre": "tres leches",
+        "precio": 1,
+        "categoria": "postres"
+    },
+    {
+        "id": 14,
+        "imagen": "img/tortacuadrada1.jpeg",
+        "nombre": "torta decorada personalizada",
+        "precio": 1,
+        "categoria": "tortas"
+    },
+    {
+        "id": 15,
+        "imagen": "img/shots.jpg",
+        "nombre": "shots",
+        "precio": 1,
+        "categoria": "minis"
+    }
+]
